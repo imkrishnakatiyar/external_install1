@@ -1,0 +1,21 @@
+{
+    "name": "Orpheus",
+    "short_name": "Orpheus",
+    "description": "Listen to your favourite songs ads-free.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#181818",
+    "theme_color": "#58a6ff",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
